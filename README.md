@@ -78,6 +78,7 @@ To train the baseline (floating-point) model:
 
 ```bash
 python cs24m533/train.py
+C:\Users\sakumar5\deeplearning\A3\cs24m533\train.py --epochs 30 --weight_bits 32 --activation_bits 32 --use_wandb --wandb_project cs6886_a3 --wandb_run_name baseline_fp32
 ```
 
 Key features:
