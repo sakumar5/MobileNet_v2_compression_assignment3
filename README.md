@@ -8,7 +8,6 @@ Implementation Of :  **CS6886W Assignment 3**,
 focus point       : **training a convolutional neural network and applying post-training quantization (PTQ)** 
 Evaluation        : Accuracy-compression trade-offs
 
-Implementation is done using **PyTorch** and  Includes utilities for training, evaluation, quantization, and compression analysis.
 ---
 
 ## Project Overview
