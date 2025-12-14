@@ -4,9 +4,9 @@ training MobileNet-v2 on CIFAR-10 and then applying model compression techniques
  ---
  ## Model Training and Post-Training Quantization on CIFAR
  
-Name       : Sanjeev Kumar
-Roll No:   : CS24M533 
-Assignment : Assignment 3  
+- Name       : Sanjeev Kumar
+- Roll No:   : CS24M533 
+- Assignment : Assignment 3  
 
 Implementation Of :  **CS6886W Assignment 3**, 
 focus point       : **training a convolutional neural network and applying post-training quantization (PTQ)** 
